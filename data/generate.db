@@ -1,0 +1,4 @@
+conduit db generate
+conduit db validate
+conduit db upgrade
+// sudo netstat -pna | grep 80
