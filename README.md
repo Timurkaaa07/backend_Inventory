@@ -1,1 +1,1 @@
-backend application for flutter
+Backend приложение дипломной работы
